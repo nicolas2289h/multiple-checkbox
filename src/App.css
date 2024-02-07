@@ -1,0 +1,10 @@
+body{
+  background-color: rgb(23, 23, 23);
+  color: #fff;
+}
+
+.card{
+  overflow-x: none;
+  overflow-y: auto;
+  height: 500px;
+}
